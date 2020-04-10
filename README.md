@@ -1,6 +1,6 @@
 # virussim
 A agent based model of virus transmission based on COVID-19 using the mesa framework.
-Go t0 run.ipynb to explore the model.
+Go to run.ipynb to explore the model.
 
 Based on an idea by Andre Vacha, COVID-19 has very different mortality rates for
 people of different ages, but China is known for having a weird population pyramid. So,
